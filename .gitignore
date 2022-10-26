@@ -1768,3 +1768,13 @@ data/cifar-10-batches-py/data_batch_2
 data/cifar-10-batches-py/data_batch_1
 data/cifar-10-batches-py/batches.meta
 data/cifar-10-python.tar.gz
+gan_generator.pt
+gan_discriminator.pt
+data/MNIST/raw/train-labels-idx1-ubyte.gz
+data/MNIST/raw/train-labels-idx1-ubyte
+data/MNIST/raw/train-images-idx3-ubyte.gz
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/t10k-images-idx3-ubyte.gz
+data/MNIST/raw/t10k-images-idx3-ubyte
